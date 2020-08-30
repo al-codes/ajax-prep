@@ -25,3 +25,4 @@ $("#profile-form").on('submit', (evt) => {
     `);
   });
 });
+
